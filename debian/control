@@ -1,0 +1,14 @@
+Source: dlib-models
+Section: utils
+Priority: extra
+Maintainer: slimbook <dev@slimbook.es>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+Homepage: https://github.com/Slimbook-Team/dlib-models
+Rules-Requires-Root: no
+ 
+Package: dlib-models
+Architecture: all
+Depends: libdlib-data
+Description: Dlib-models
+ Some extra Dlib models

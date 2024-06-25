@@ -1,0 +1,5 @@
+dlib-models (1.0.0) noble; urgency=medium
+
+  * Initial release. (Based on 41b158a)
+
+ -- Slimbook <dev@slimbook.es>  Tue, 25 Jun 2024 23:26:41 +0200

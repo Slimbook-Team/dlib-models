@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: dlib-models
+Source: https://github.com/Slimbook-Team/dlib-models
+ 
+Files: *.dat
+Copyright: Davis E.King <davis@dlib.net>
+License: CC0
+ 
